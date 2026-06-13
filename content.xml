@@ -1734,9 +1734,9 @@
     </odePagStructure>
     <odePagStructure>
       <odePageId>page-mqccsy07-dy8x74v1p</odePageId>
-      <odeBlockId>block-mqciukg9-tpj68u32m</odeBlockId>
-      <blockName>Rúbrica</blockName>
-      <iconName>diary</iconName>
+      <odeBlockId>block-mqcwjl2d-bzjvj6ufq</odeBlockId>
+      <blockName>Rúbrica evaluación informe Final</blockName>
+      <iconName>activity</iconName>
       <odePagStructureOrder>1</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
@@ -1763,13 +1763,13 @@
       <odeComponents>
         <odeComponent>
           <odePageId>page-mqccsy07-dy8x74v1p</odePageId>
-          <odeBlockId>block-mqciukg9-tpj68u32m</odeBlockId>
-          <odeIdeviceId>idevice-1781365204232-o4cvsjlez</odeIdeviceId>
+          <odeBlockId>block-mqcwjl2d-bzjvj6ufq</odeBlockId>
+          <odeIdeviceId>idevice-1781388206434-6q10ac3n0</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><a href="{{context_path}}/content/resources/“Rúbrica de evaluación del informe estadístico final”.pdf" title="“Rúbrica de evaluación del informe final&quot;">“Rúbrica de evaluación del informe final"</a></p>
+    <p><iframe width="640" height="480" src="https://drive.google.com/file/d/1p23Ab2T5Qq5vN39pF7aK5vZZ6ilR_MLr/preview"></iframe></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781365204232-o4cvsjlez","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><a href=\"{{context_path}}/content/resources/“Rúbrica de evaluación del informe estadístico final”.pdf\" title=\"“Rúbrica de evaluación del informe final&quot;\">“Rúbrica de evaluación del informe final\"</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781388206434-6q10ac3n0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1p23Ab2T5Qq5vN39pF7aK5vZZ6ilR_MLr/preview\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1833,50 +1833,6 @@
         </odeComponent>
       </odeComponents>
     </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mqccsy07-dy8x74v1p</odePageId>
-      <odeBlockId>block-mqcwjl2d-bzjvj6ufq</odeBlockId>
-      <blockName>Rúbrica evaluación informe Final</blockName>
-      <iconName>activity</iconName>
-      <odePagStructureOrder>3</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mqccsy07-dy8x74v1p</odePageId>
-          <odeBlockId>block-mqcwjl2d-bzjvj6ufq</odeBlockId>
-          <odeIdeviceId>idevice-1781388206434-6q10ac3n0</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <p><iframe width="640" height="480" src="https://drive.google.com/file/d/1p23Ab2T5Qq5vN39pF7aK5vZZ6ilR_MLr/preview"></iframe></p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781388206434-6q10ac3n0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1p23Ab2T5Qq5vN39pF7aK5vZZ6ilR_MLr/preview\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
@@ -1922,7 +1878,7 @@
   <odePageId>page-mqcct6yf-f0q6om7yi</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Guía didáctica</pageName>
-  <odeNavStructureOrder>16</odeNavStructureOrder>
+  <odeNavStructureOrder>17</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
@@ -2080,7 +2036,7 @@
   <odePageId>page-mqcctcqr-wbqilvjy6</odePageId>
   <odeParentPageId></odeParentPageId>
   <pageName>Créditos</pageName>
-  <odeNavStructureOrder>18</odeNavStructureOrder>
+  <odeNavStructureOrder>19</odeNavStructureOrder>
   <odeNavStructureProperties>
     <odeNavStructureProperty>
       <key>titlePage</key>
