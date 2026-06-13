@@ -598,6 +598,32 @@
         </odeComponent>
       </odeComponents>
     </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqco3hlh-s6gpup0kg</odePageId>
+      <odeBlockId>block-mqcwukbb-jvs3elpcj</odeBlockId>
+      <blockName>Línea temporal</blockName>
+      <iconName>chrono</iconName>
+      <odePagStructureOrder>2</odePagStructureOrder>
+      <odePagStructureProperties>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqco3hlh-s6gpup0kg</odePageId>
+          <odeBlockId>block-mqcwukbb-jvs3elpcj</odeBlockId>
+          <odeIdeviceId>idevice-1781361777706-txs07f1ba</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHMYosUv0I/mWR4Hiwa72U9yAmZyN7xpw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
+  </iframe></div>
+<p><a href="https://www.canva.com/design/DAHMYosUv0I/mWR4Hiwa72U9yAmZyN7xpw/view?utm_content=DAHMYosUv0I&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Timeline Sda:"Pantallas, salud y números:aprendemos estadística investigando nuestra realidad"</a> de María Elena Dueñas Alcalde</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781361777706-txs07f1ba","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHMYosUv0I/mWR4Hiwa72U9yAmZyN7xpw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHMYosUv0I/mWR4Hiwa72U9yAmZyN7xpw/view?utm_content=DAHMYosUv0I&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Timeline Sda:\"Pantallas, salud y números:aprendemos estadística investigando nuestra realidad\"</a> de María Elena Dueñas Alcalde</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
   </odePagStructures>
 </odeNavStructure>
 <odeNavStructure>
@@ -1595,7 +1621,7 @@
       <odeBlockId>block-mqcgmli1-63b9xzery</odeBlockId>
       <blockName>¿Qué vamos a crear?</blockName>
       <iconName>ask</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureOrder>0</odePagStructureOrder>
       <odePagStructureProperties>
         <odePagStructureProperty>
           <key>visibility</key>
@@ -1637,52 +1663,6 @@
 <p>La presentación se realizará de forma oral antes vuestros compañer@s en la sesión 10.</p>
 </div>]]></htmlView>
           <jsonProperties><![CDATA[{"ideviceId":"idevice-1781361473111-7lfhlnynv","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>Al finalizar esta investigación, cada grupo presentará un informe estadístico elaborado en Canva que incluirá: </p>\n<ul>\n<li>El diseño de vuestra encuesta y la metodología seguida.</li>\n<li>LAs tablas de frecuencias y los gráficos estadísticos.</li>\n<li>Las medidas de centralización y dispersión calculadas.</li>\n<li>La comparación entre dos grupos de datos.</li>\n<li>Predicciones basadas en la probabilidad.</li>\n<li>Las conclusiones de vuestra investigación.</li>\n</ul>\n<p>La presentación se realizará de forma oral antes vuestros compañer@s en la sesión 10.</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
-          <odeComponentsOrder>0</odeComponentsOrder>
-          <odeComponentsProperties>
-          </odeComponentsProperties>
-        </odeComponent>
-      </odeComponents>
-    </odePagStructure>
-    <odePagStructure>
-      <odePageId>page-mqccscxf-xq51d0jic</odePageId>
-      <odeBlockId>block-mqcgt4iz-epl0bczcw</odeBlockId>
-      <blockName>Nuestro plan de trabajo</blockName>
-      <iconName>chrono</iconName>
-      <odePagStructureOrder>1</odePagStructureOrder>
-      <odePagStructureProperties>
-        <odePagStructureProperty>
-          <key>visibility</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>teacherOnly</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>allowToggle</key>
-          <value>true</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>minimized</key>
-          <value>false</value>
-        </odePagStructureProperty>
-        <odePagStructureProperty>
-          <key>cssClass</key>
-          <value></value>
-        </odePagStructureProperty>
-      </odePagStructureProperties>
-      <odeComponents>
-        <odeComponent>
-          <odePageId>page-mqccscxf-xq51d0jic</odePageId>
-          <odeBlockId>block-mqcgt4iz-epl0bczcw</odeBlockId>
-          <odeIdeviceId>idevice-1781361777706-txs07f1ba</odeIdeviceId>
-          <odeIdeviceTypeName>text</odeIdeviceTypeName>
-          <htmlView><![CDATA[<div class="exe-text-template">
-    <div style="position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;"><iframe width="100" height="100" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;" loading="lazy" src="https://www.canva.com/design/DAHMYosUv0I/mWR4Hiwa72U9yAmZyN7xpw/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen" data-mce-fragment="1">
-  </iframe></div>
-<p><a href="https://www.canva.com/design/DAHMYosUv0I/mWR4Hiwa72U9yAmZyN7xpw/view?utm_content=DAHMYosUv0I&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">Timeline Sda:"Pantallas, salud y números:aprendemos estadística investigando nuestra realidad"</a> de María Elena Dueñas Alcalde</p>
-</div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781361777706-txs07f1ba","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<div style=\"position: relative; width: 100%; height: 0; padding-top: 75.0000%; padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden; border-radius: 8px; will-change: transform;\"><iframe width=\"100\" height=\"100\" style=\"position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0; margin: 0;\" loading=\"lazy\" src=\"https://www.canva.com/design/DAHMYosUv0I/mWR4Hiwa72U9yAmZyN7xpw/view?embed\" allowfullscreen=\"allowfullscreen\" allow=\"fullscreen\" data-mce-fragment=\"1\">\n  </iframe></div>\n<p><a href=\"https://www.canva.com/design/DAHMYosUv0I/mWR4Hiwa72U9yAmZyN7xpw/view?utm_content=DAHMYosUv0I&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link\" target=\"_blank\" rel=\"noopener\">Timeline Sda:\"Pantallas, salud y números:aprendemos estadística investigando nuestra realidad\"</a> de María Elena Dueñas Alcalde</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
@@ -1831,9 +1811,10 @@
           <odeIdeviceId>idevice-1781367639625-dmhypz8wx</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT27eEJNL4lRrUxaXiiNxflYDuOOGJdlNhMb9oL1lo42DebZ2OpfNasmFvYXi6fjWTPS2TFat5WRifD/pubhtml?widget=true&amp;headers=false"></iframe></p>
+    <style>iframe{width:100%; height:600px}</style>
+<p><iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vT27eEJNL4lRrUxaXiiNxflYDuOOGJdlNhMb9oL1lo42DebZ2OpfNasmFvYXi6fjWTPS2TFat5WRifD/pubhtml?widget=true&amp;headers=false" data-mce-fragment="1"></iframe></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781367639625-dmhypz8wx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vT27eEJNL4lRrUxaXiiNxflYDuOOGJdlNhMb9oL1lo42DebZ2OpfNasmFvYXi6fjWTPS2TFat5WRifD/pubhtml?widget=true&amp;headers=false\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781367639625-dmhypz8wx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<style>iframe{width:100%; height:600px}</style>\n<p><iframe src=\"https://docs.google.com/spreadsheets/d/e/2PACX-1vT27eEJNL4lRrUxaXiiNxflYDuOOGJdlNhMb9oL1lo42DebZ2OpfNasmFvYXi6fjWTPS2TFat5WRifD/pubhtml?widget=true&amp;headers=false\" data-mce-fragment=\"1\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
             <odeComponentsProperty>
@@ -1848,6 +1829,50 @@
               <key>cssClass</key>
               <value></value>
             </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mqccsy07-dy8x74v1p</odePageId>
+      <odeBlockId>block-mqcwjl2d-bzjvj6ufq</odeBlockId>
+      <blockName>Rúbrica evaluación informe Final</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>3</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mqccsy07-dy8x74v1p</odePageId>
+          <odeBlockId>block-mqcwjl2d-bzjvj6ufq</odeBlockId>
+          <odeIdeviceId>idevice-1781388206434-6q10ac3n0</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><iframe width="640" height="480" src="https://drive.google.com/file/d/1p23Ab2T5Qq5vN39pF7aK5vZZ6ilR_MLr/preview"></iframe></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781388206434-6q10ac3n0","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"640\" height=\"480\" src=\"https://drive.google.com/file/d/1p23Ab2T5Qq5vN39pF7aK5vZZ6ilR_MLr/preview\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
           </odeComponentsProperties>
         </odeComponent>
       </odeComponents>
@@ -1996,9 +2021,9 @@
           <odeIdeviceId>idevice-1781367423740-m6z5ik4zi</odeIdeviceId>
           <odeIdeviceTypeName>text</odeIdeviceTypeName>
           <htmlView><![CDATA[<div class="exe-text-template">
-    <p><iframe src="https://docs.google.com/document/d/e/2PACX-1vT4fCa7LOv4Vi3436lAO8e4KAOd6fkWdwWFroGVRspHh9_uh8T416BVhLcvkqawqdXK9BsJFWdLkCpd/pub?embedded=true"></iframe></p>
+    <p><iframe width="100%" height="600" src="https://docs.google.com/document/d/e/2PACX-1vT4fCa7LOv4Vi3436lAO8e4KAOd6fkWdwWFroGVRspHh9_uh8T416BVhLcvkqawqdXK9BsJFWdLkCpd/pub?embedded=true"></iframe></p>
 </div>]]></htmlView>
-          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781367423740-m6z5ik4zi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe src=\"https://docs.google.com/document/d/e/2PACX-1vT4fCa7LOv4Vi3436lAO8e4KAOd6fkWdwWFroGVRspHh9_uh8T416BVhLcvkqawqdXK9BsJFWdLkCpd/pub?embedded=true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1781367423740-m6z5ik4zi","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><iframe width=\"100%\" height=\"600\" src=\"https://docs.google.com/document/d/e/2PACX-1vT4fCa7LOv4Vi3436lAO8e4KAOd6fkWdwWFroGVRspHh9_uh8T416BVhLcvkqawqdXK9BsJFWdLkCpd/pub?embedded=true\"></iframe></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
           <odeComponentsOrder>0</odeComponentsOrder>
           <odeComponentsProperties>
           </odeComponentsProperties>
